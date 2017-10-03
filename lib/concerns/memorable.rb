@@ -12,5 +12,5 @@ module Memorable
     @@artists.count
 
   end
-  
+
 end
