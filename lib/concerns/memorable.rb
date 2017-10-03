@@ -8,4 +8,8 @@ module Memorable
     self.all.count
   end
 
+  def self.count
+    @@artists.count
+  end
+  
 end
